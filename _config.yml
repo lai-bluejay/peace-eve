@@ -5,15 +5,15 @@
 # Site
 title: 一朝一夕，惟愿卿安
 subtitle:
-description:
-keywords:
+description: 分享机器学习、深度学习，在互联网金融等行业的行业实战
+keywords: 机器学习,深度学习,博客,行业实战,github,linux
 author: Charles Lai
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.jithub.cn
+url: https://pe3.jithub.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
