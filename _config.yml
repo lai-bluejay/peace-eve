@@ -81,8 +81,8 @@ deploy:
   type: leancloud_counter_security_sync
 
 algolia:
-  applicationID: 'MB7XCXTVKL'
-  indexName: 'pe3_blog'
+  applicationID: MB7XCXTVKL
+  indexName: pe3_blog
   chunkSize: 5000
 
 leancloud_counter_security:
